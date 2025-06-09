@@ -4,7 +4,7 @@ import static java.lang.Math.abs;
 import static java.lang.Math.pow;
 
 import java.util.Random;
-public class Main {
+public class BMI_calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your kg: ");
